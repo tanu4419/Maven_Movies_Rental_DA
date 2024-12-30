@@ -31,4 +31,16 @@ Highlight gaps in the inventory and optimize stock levels.
 # Tools & Library Used
 [<img src="https://github.com/tanu4419/Maven_Movies_Rental_DA/blob/main/mysql_logo.png" alt="myql-logo" width="100"/>](https://github.com/tanu4419/Maven_Movies_Rental_DA/blob/main/mysql_logo.png) &nbsp;
 
+# Project Result
+
+[Click here to get full code](https://github.com/tanu4419/Maven_Movies_Rental_DA/blob/main/maven_movies_rental_CODE.sql)
+
+# Query Task
+
+1. "How can we extract the first name, last name, and email address of all customers to prepare a comprehensive contact list for the marketing team?"
+
+
+
+
+
 
